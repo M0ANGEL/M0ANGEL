@@ -10,11 +10,7 @@ Miguel Anegl</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **React-Typescript / Laravel - Sql Server**
 
 - 📫 How to reach me **riascomiguelangel53@gmail.com**
 
