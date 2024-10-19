@@ -22,6 +22,10 @@ Miguel Anegl</a></h1>
 
 - 📫 How to reach me **riascomiguelangel53@gmail.com**
 
+<br/>
+<br/>
+<br/>
+<br/>
 - 📄 I am a person in constant growth in the world of programming. <br/> I love learning and improving my skills day by day. I work with languages ​​like React and TypeScript on the frontend, and Laravel for the backend. Additionally, I use SQL Server for database management, <br/> which allows me to handle robust and scalable projects. <br/> I really enjoy teamwork because I firmly believe that collaboration is key to achieving great results. <br/> I am always looking for new ways to contribute and continue developing as a professional.
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
